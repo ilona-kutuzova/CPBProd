@@ -1,0 +1,385 @@
+2024-09-02 12:21:09,646 [main] INFO CPB - open prod site
+2024-09-02 12:21:09,750 [main] INFO CPB - entered password
+2024-09-02 12:37:18,538 [main] INFO CPB - open prod site
+2024-09-02 12:37:18,649 [main] INFO CPB - entered password
+2024-09-02 12:54:16,450 [main] INFO CPB - open prod site
+2024-09-02 12:54:16,566 [main] INFO CPB - entered password
+2024-09-02 12:54:17,104 [main] INFO CPB - clicked on enter button
+2024-09-02 12:54:17,390 [main] INFO CPB - clicked on view all button
+2024-09-02 13:31:02,751 [main] INFO CPB - open prod site
+2024-09-02 13:31:02,868 [main] INFO CPB - entered password
+2024-09-02 13:31:03,363 [main] INFO CPB - clicked on enter button
+2024-09-02 13:31:03,635 [main] INFO CPB - clicked on view all button
+2024-09-02 13:31:05,352 [main] INFO CPB - clicked on phone case
+2024-09-02 13:40:27,089 [main] INFO CPB - open prod site
+2024-09-02 13:40:27,212 [main] INFO CPB - entered password
+2024-09-02 13:40:27,734 [main] INFO CPB - clicked on enter button
+2024-09-02 13:40:28,013 [main] INFO CPB - clicked on view all button
+2024-09-02 13:40:29,746 [main] INFO CPB - clicked on phone case
+2024-09-02 13:40:31,441 [main] INFO CPB - selected product model
+2024-09-02 13:45:02,615 [main] INFO CPB - open prod site
+2024-09-02 13:45:02,723 [main] INFO CPB - entered password
+2024-09-02 13:45:03,202 [main] INFO CPB - clicked on enter button
+2024-09-02 13:45:03,467 [main] INFO CPB - clicked on view all button
+2024-09-02 13:45:05,030 [main] INFO CPB - clicked on phone case
+2024-09-02 13:45:06,116 [main] INFO CPB - selected product model
+2024-09-02 13:45:06,206 [main] INFO CPB - selected product design
+2024-09-02 13:57:21,972 [main] INFO CPB - open prod site
+2024-09-02 13:57:22,080 [main] INFO CPB - entered password
+2024-09-02 13:57:22,846 [main] INFO CPB - clicked on enter button
+2024-09-02 13:57:23,345 [main] INFO CPB - clicked on view all button
+2024-09-02 13:57:26,220 [main] INFO CPB - clicked on phone case
+2024-09-02 13:57:27,328 [main] INFO CPB - selected product model
+2024-09-02 13:57:27,416 [main] INFO CPB - selected product design
+2024-09-02 13:59:03,159 [main] INFO CPB - open prod site
+2024-09-02 13:59:03,267 [main] INFO CPB - entered password
+2024-09-02 13:59:03,908 [main] INFO CPB - clicked on enter button
+2024-09-02 13:59:04,420 [main] INFO CPB - clicked on view all button
+2024-09-02 13:59:06,078 [main] INFO CPB - clicked on phone case
+2024-09-02 13:59:07,183 [main] INFO CPB - selected product model
+2024-09-02 13:59:07,268 [main] INFO CPB - selected product design
+2024-09-02 13:59:48,108 [main] INFO CPB - open prod site
+2024-09-02 13:59:48,218 [main] INFO CPB - entered password
+2024-09-02 13:59:48,933 [main] INFO CPB - clicked on enter button
+2024-09-02 13:59:49,439 [main] INFO CPB - clicked on view all button
+2024-09-02 13:59:51,562 [main] INFO CPB - clicked on phone case
+2024-09-02 13:59:52,657 [main] INFO CPB - selected product model
+2024-09-02 13:59:52,745 [main] INFO CPB - selected product design
+2024-09-02 14:07:12,610 [main] INFO CPB - open prod site
+2024-09-02 14:07:12,716 [main] INFO CPB - entered password
+2024-09-02 14:07:13,372 [main] INFO CPB - clicked on enter button
+2024-09-02 14:07:13,824 [main] INFO CPB - clicked on view all button
+2024-09-02 14:07:15,677 [main] INFO CPB - clicked on phone case
+2024-09-02 14:07:17,332 [main] INFO CPB - selected product model
+2024-09-02 14:07:17,419 [main] INFO CPB - selected product design
+2024-09-02 14:17:45,502 [main] INFO CPB - open prod site
+2024-09-02 14:17:45,612 [main] INFO CPB - entered password
+2024-09-02 14:17:46,291 [main] INFO CPB - clicked on enter button
+2024-09-02 14:17:46,774 [main] INFO CPB - clicked on view all button
+2024-09-02 14:17:48,922 [main] INFO CPB - clicked on phone case
+2024-09-02 14:17:50,640 [main] INFO CPB - selected product model
+2024-09-02 14:17:50,832 [main] INFO CPB - selected product design
+2024-09-02 14:21:12,774 [main] INFO CPB - open prod site
+2024-09-02 14:21:12,888 [main] INFO CPB - entered password
+2024-09-02 14:21:13,410 [main] INFO CPB - clicked on enter button
+2024-09-02 14:21:13,680 [main] INFO CPB - clicked on view all button
+2024-09-02 14:21:15,498 [main] INFO CPB - clicked on phone case
+2024-09-02 14:21:16,606 [main] INFO CPB - selected product model
+2024-09-02 14:21:16,695 [main] INFO CPB - selected product design
+2024-09-02 14:38:03,872 [main] INFO CPB - open prod site
+2024-09-02 14:38:03,974 [main] INFO CPB - entered password
+2024-09-02 14:38:04,738 [main] INFO CPB - clicked on enter button
+2024-09-02 14:38:05,278 [main] INFO CPB - clicked on view all button
+2024-09-02 14:38:06,952 [main] INFO CPB - clicked on phone case
+2024-09-02 14:38:08,196 [main] INFO CPB - selected product model
+2024-09-02 14:38:08,286 [main] INFO CPB - selected product design
+2024-09-02 14:46:37,618 [main] INFO CPB - open prod site
+2024-09-02 14:46:37,728 [main] INFO CPB - entered password
+2024-09-02 14:46:38,439 [main] INFO CPB - clicked on enter button
+2024-09-02 14:46:38,923 [main] INFO CPB - clicked on view all button
+2024-09-02 14:46:41,066 [main] INFO CPB - clicked on phone case
+2024-09-02 14:46:42,165 [main] INFO CPB - selected product model
+2024-09-02 14:46:42,253 [main] INFO CPB - selected product design
+2024-09-02 14:49:10,595 [main] INFO CPB - open prod site
+2024-09-02 14:49:10,712 [main] INFO CPB - entered password
+2024-09-02 14:49:11,179 [main] INFO CPB - clicked on enter button
+2024-09-02 14:49:11,464 [main] INFO CPB - clicked on view all button
+2024-09-02 14:49:13,150 [main] INFO CPB - clicked on phone case
+2024-09-02 14:49:14,255 [main] INFO CPB - selected product model
+2024-09-02 14:49:14,358 [main] INFO CPB - selected product design
+2024-09-02 14:50:39,418 [main] INFO CPB - open prod site
+2024-09-02 14:50:39,543 [main] INFO CPB - entered password
+2024-09-02 14:50:39,805 [main] INFO CPB - clicked on enter button
+2024-09-02 14:50:40,327 [main] INFO CPB - clicked on view all button
+2024-09-02 14:50:42,132 [main] INFO CPB - clicked on phone case
+2024-09-02 14:50:43,260 [main] INFO CPB - selected product model
+2024-09-02 14:50:43,356 [main] INFO CPB - selected product design
+2024-09-02 14:56:55,332 [main] INFO CPB - open prod site
+2024-09-02 14:56:55,501 [main] INFO CPB - entered password
+2024-09-02 14:56:56,176 [main] INFO CPB - clicked on enter button
+2024-09-02 14:56:56,705 [main] INFO CPB - clicked on view all button
+2024-09-02 14:56:58,518 [main] INFO CPB - clicked on phone case
+2024-09-02 14:56:59,614 [main] INFO CPB - selected product model
+2024-09-02 14:56:59,708 [main] INFO CPB - selected product design
+2024-09-02 14:58:15,414 [main] INFO CPB - open prod site
+2024-09-02 14:58:15,538 [main] INFO CPB - entered password
+2024-09-02 14:58:15,984 [main] INFO CPB - clicked on enter button
+2024-09-02 14:58:16,258 [main] INFO CPB - clicked on view all button
+2024-09-02 14:58:18,760 [main] INFO CPB - clicked on phone case
+2024-09-02 14:58:20,470 [main] INFO CPB - selected product model
+2024-09-02 14:58:20,565 [main] INFO CPB - selected product design
+2024-09-02 14:58:20,731 [main] INFO CPB - uploaded image
+2024-09-02 16:05:34,676 [main] INFO CPB - open prod site
+2024-09-02 16:05:34,781 [main] INFO CPB - entered password
+2024-09-02 16:05:35,582 [main] INFO CPB - clicked on enter button
+2024-09-02 16:05:36,094 [main] INFO CPB - clicked on view all button
+2024-09-02 16:05:38,087 [main] INFO CPB - clicked on phone case
+2024-09-02 16:05:39,205 [main] INFO CPB - selected product model
+2024-09-02 16:05:39,292 [main] INFO CPB - selected product design
+2024-09-02 16:05:39,335 [main] INFO CPB - uploaded image
+2024-09-02 16:05:39,381 [main] INFO CPB - entered first text
+2024-09-02 16:07:08,920 [main] INFO CPB - open prod site
+2024-09-02 16:07:09,020 [main] INFO CPB - entered password
+2024-09-02 16:07:09,510 [main] INFO CPB - clicked on enter button
+2024-09-02 16:07:09,794 [main] INFO CPB - clicked on view all button
+2024-09-02 16:07:11,371 [main] INFO CPB - clicked on phone case
+2024-09-02 16:07:12,459 [main] INFO CPB - selected product model
+2024-09-02 16:07:12,548 [main] INFO CPB - selected product design
+2024-09-02 16:07:12,602 [main] INFO CPB - uploaded image
+2024-09-02 16:07:12,637 [main] INFO CPB - entered first text
+2024-09-02 16:07:12,764 [main] INFO CPB - entered second text
+2024-09-02 16:10:13,966 [main] INFO CPB - open prod site
+2024-09-02 16:10:14,090 [main] INFO CPB - entered password
+2024-09-02 16:10:14,537 [main] INFO CPB - clicked on enter button
+2024-09-02 16:10:14,817 [main] INFO CPB - clicked on view all button
+2024-09-02 16:10:16,625 [main] INFO CPB - clicked on phone case
+2024-09-02 16:10:17,718 [main] INFO CPB - selected product model
+2024-09-02 16:10:17,812 [main] INFO CPB - selected product design
+2024-09-02 16:10:17,860 [main] INFO CPB - uploaded image
+2024-09-02 16:10:17,904 [main] INFO CPB - entered first text
+2024-09-02 16:10:18,034 [main] INFO CPB - entered second text
+2024-09-02 16:10:18,062 [main] INFO CPB - selected color
+2024-09-02 16:13:36,697 [main] INFO CPB - open prod site
+2024-09-02 16:13:36,812 [main] INFO CPB - entered password
+2024-09-02 16:13:37,250 [main] INFO CPB - clicked on enter button
+2024-09-02 16:13:37,537 [main] INFO CPB - clicked on view all button
+2024-09-02 16:13:39,284 [main] INFO CPB - clicked on phone case
+2024-09-02 16:13:40,371 [main] INFO CPB - selected product model
+2024-09-02 16:13:40,463 [main] INFO CPB - selected product design
+2024-09-02 16:13:40,514 [main] INFO CPB - uploaded image
+2024-09-02 16:13:40,655 [main] INFO CPB - entered first text
+2024-09-02 16:13:40,686 [main] INFO CPB - entered second text
+2024-09-02 16:13:40,713 [main] INFO CPB - selected color
+2024-09-02 16:13:40,771 [main] INFO CPB - selected ring holder
+2024-09-02 16:15:43,666 [main] INFO CPB - open prod site
+2024-09-02 16:15:43,784 [main] INFO CPB - entered password
+2024-09-02 16:15:44,235 [main] INFO CPB - clicked on enter button
+2024-09-02 16:15:44,502 [main] INFO CPB - clicked on view all button
+2024-09-02 16:15:46,210 [main] INFO CPB - clicked on phone case
+2024-09-02 16:15:47,320 [main] INFO CPB - selected product model
+2024-09-02 16:15:47,411 [main] INFO CPB - selected product design
+2024-09-02 16:15:47,462 [main] INFO CPB - uploaded image
+2024-09-02 16:15:47,506 [main] INFO CPB - entered first text
+2024-09-02 16:15:47,628 [main] INFO CPB - entered second text
+2024-09-02 16:15:47,656 [main] INFO CPB - selected color
+2024-09-02 16:15:47,718 [main] INFO CPB - selected ring holder
+2024-09-02 16:15:47,854 [main] INFO CPB - clicked on add to cart button
+2024-09-02 16:55:01,221 [main] INFO CPB - open prod site
+2024-09-02 16:55:01,338 [main] INFO CPB - entered password
+2024-09-02 16:55:02,100 [main] INFO CPB - clicked on enter button
+2024-09-02 16:55:02,577 [main] INFO CPB - clicked on view all button
+2024-09-02 16:55:04,407 [main] INFO CPB - clicked on phone case
+2024-09-02 16:55:05,498 [main] INFO CPB - selected product model
+2024-09-02 16:55:05,586 [main] INFO CPB - selected product design
+2024-09-02 16:55:05,635 [main] INFO CPB - uploaded image
+2024-09-02 16:55:05,682 [main] INFO CPB - entered first text
+2024-09-02 16:55:05,809 [main] INFO CPB - entered second text
+2024-09-02 16:55:05,836 [main] INFO CPB - selected color
+2024-09-02 16:55:05,895 [main] INFO CPB - selected ring holder
+2024-09-02 16:55:05,937 [main] INFO CPB - clicked on add to cart button
+2024-09-02 16:57:57,155 [main] INFO CPB - open prod site
+2024-09-02 16:57:57,261 [main] INFO CPB - entered password
+2024-09-02 16:57:57,987 [main] INFO CPB - clicked on enter button
+2024-09-02 16:57:58,467 [main] INFO CPB - clicked on view all button
+2024-09-02 16:58:00,281 [main] INFO CPB - clicked on phone case
+2024-09-02 16:58:01,934 [main] INFO CPB - selected product model
+2024-09-02 16:58:02,024 [main] INFO CPB - selected product design
+2024-09-02 16:58:02,198 [main] INFO CPB - uploaded image
+2024-09-02 16:58:02,326 [main] INFO CPB - entered first text
+2024-09-02 16:58:02,357 [main] INFO CPB - entered second text
+2024-09-02 16:58:02,387 [main] INFO CPB - selected color
+2024-09-02 16:58:02,481 [main] INFO CPB - selected ring holder
+2024-09-02 16:58:02,539 [main] INFO CPB - clicked on add to cart button
+2024-09-02 17:00:05,065 [main] INFO CPB - open prod site
+2024-09-02 17:00:05,172 [main] INFO CPB - entered password
+2024-09-02 17:00:05,838 [main] INFO CPB - clicked on enter button
+2024-09-02 17:00:06,312 [main] INFO CPB - clicked on view all button
+2024-09-02 17:00:08,186 [main] INFO CPB - clicked on phone case
+2024-09-02 17:00:09,304 [main] INFO CPB - selected product model
+2024-09-02 17:00:09,393 [main] INFO CPB - selected product design
+2024-09-02 17:00:09,442 [main] INFO CPB - uploaded image
+2024-09-02 17:00:09,478 [main] INFO CPB - entered first text
+2024-09-02 17:00:09,611 [main] INFO CPB - entered second text
+2024-09-02 17:00:09,640 [main] INFO CPB - selected color
+2024-09-02 17:00:09,697 [main] INFO CPB - selected ring holder
+2024-09-02 17:00:09,773 [main] INFO CPB - clicked on add to cart button
+2024-09-02 17:06:36,092 [main] INFO CPB - open prod site
+2024-09-02 17:06:36,195 [main] INFO CPB - entered password
+2024-09-02 17:06:36,855 [main] INFO CPB - clicked on enter button
+2024-09-02 17:06:37,349 [main] INFO CPB - clicked on view all button
+2024-09-02 17:06:39,307 [main] INFO CPB - clicked on phone case
+2024-09-02 17:06:40,451 [main] INFO CPB - selected product model
+2024-09-02 17:06:40,539 [main] INFO CPB - selected product design
+2024-09-02 17:06:40,584 [main] INFO CPB - uploaded image
+2024-09-02 17:06:40,619 [main] INFO CPB - entered first text
+2024-09-02 17:06:40,664 [main] INFO CPB - entered second text
+2024-09-02 17:06:40,697 [main] INFO CPB - selected color
+2024-09-02 17:06:40,838 [main] INFO CPB - selected ring holder
+2024-09-02 17:06:40,867 [main] INFO CPB - clicked on add to cart button
+2024-09-02 17:36:31,359 [main] INFO CPB - open prod site
+2024-09-02 17:36:31,462 [main] INFO CPB - entered password
+2024-09-02 17:36:32,182 [main] INFO CPB - clicked on enter button
+2024-09-02 17:36:32,731 [main] INFO CPB - clicked on view all button
+2024-09-02 17:36:34,563 [main] INFO CPB - clicked on phone case
+2024-09-02 17:36:35,660 [main] INFO CPB - selected product model
+2024-09-02 17:36:35,748 [main] INFO CPB - selected product design
+2024-09-02 17:36:35,894 [main] INFO CPB - uploaded image
+2024-09-02 17:36:35,930 [main] INFO CPB - entered first text
+2024-09-02 17:36:35,960 [main] INFO CPB - entered second text
+2024-09-02 17:36:35,989 [main] INFO CPB - selected color
+2024-09-02 17:36:36,048 [main] INFO CPB - selected ring holder
+2024-09-02 17:36:36,078 [main] INFO CPB - clicked on add to cart button
+2024-09-02 18:09:22,308 [main] INFO CPB - open prod site
+2024-09-02 18:09:22,408 [main] INFO CPB - entered password
+2024-09-02 18:09:22,983 [main] INFO CPB - clicked on enter button
+2024-09-02 18:09:23,527 [main] INFO CPB - clicked on view all button
+2024-09-02 18:09:25,388 [main] INFO CPB - clicked on phone case
+2024-09-02 18:09:26,644 [main] INFO CPB - selected product model
+2024-09-02 18:09:26,734 [main] INFO CPB - selected product design
+2024-09-02 18:09:26,780 [main] INFO CPB - uploaded image
+2024-09-02 18:09:26,814 [main] INFO CPB - entered first text
+2024-09-02 18:09:26,846 [main] INFO CPB - entered second text
+2024-09-02 18:09:26,877 [main] INFO CPB - selected color
+2024-09-02 18:09:27,013 [main] INFO CPB - selected ring holder
+2024-09-02 18:09:27,053 [main] INFO CPB - clicked on add to cart button
+2024-09-02 18:15:03,159 [main] INFO CPB - open prod site
+2024-09-02 18:15:03,279 [main] INFO CPB - entered password
+2024-09-02 18:15:03,858 [main] INFO CPB - clicked on enter button
+2024-09-02 18:15:04,342 [main] INFO CPB - clicked on view all button
+2024-09-02 18:15:06,199 [main] INFO CPB - clicked on phone case
+2024-09-02 18:15:07,304 [main] INFO CPB - selected product model
+2024-09-02 18:15:07,392 [main] INFO CPB - selected product design
+2024-09-02 18:15:07,437 [main] INFO CPB - uploaded image
+2024-09-02 18:15:07,471 [main] INFO CPB - entered first text
+2024-09-02 18:15:07,596 [main] INFO CPB - entered second text
+2024-09-02 18:15:07,626 [main] INFO CPB - selected color
+2024-09-02 18:15:07,684 [main] INFO CPB - selected ring holder
+2024-09-02 18:15:07,727 [main] INFO CPB - clicked on add to cart button
+2024-09-02 18:23:30,480 [main] INFO CPB - open prod site
+2024-09-02 18:23:30,584 [main] INFO CPB - entered password
+2024-09-02 18:23:31,174 [main] INFO CPB - clicked on enter button
+2024-09-02 18:23:31,635 [main] INFO CPB - clicked on view all button
+2024-09-02 18:23:33,410 [main] INFO CPB - clicked on phone case
+2024-09-02 18:23:34,516 [main] INFO CPB - selected product model
+2024-09-02 18:23:34,602 [main] INFO CPB - selected product design
+2024-09-02 18:23:34,648 [main] INFO CPB - uploaded image
+2024-09-02 18:23:34,706 [main] INFO CPB - entered first text
+2024-09-02 18:23:34,808 [main] INFO CPB - entered second text
+2024-09-02 18:23:34,837 [main] INFO CPB - selected color
+2024-09-02 18:23:34,895 [main] INFO CPB - selected ring holder
+2024-09-02 18:23:34,940 [main] INFO CPB - clicked on add to cart button
+2024-09-02 18:23:47,941 [main] INFO CPB - clicked on checkout button
+2024-09-02 18:26:01,665 [main] INFO CPB - open prod site
+2024-09-02 18:26:01,788 [main] INFO CPB - entered password
+2024-09-02 18:26:02,419 [main] INFO CPB - clicked on enter button
+2024-09-02 18:26:02,930 [main] INFO CPB - clicked on view all button
+2024-09-02 18:26:04,760 [main] INFO CPB - clicked on phone case
+2024-09-02 18:26:05,850 [main] INFO CPB - selected product model
+2024-09-02 18:26:05,940 [main] INFO CPB - selected product design
+2024-09-02 18:26:05,987 [main] INFO CPB - uploaded image
+2024-09-02 18:26:06,028 [main] INFO CPB - entered first text
+2024-09-02 18:26:06,077 [main] INFO CPB - entered second text
+2024-09-02 18:26:06,204 [main] INFO CPB - selected color
+2024-09-02 18:26:06,261 [main] INFO CPB - selected ring holder
+2024-09-02 18:26:06,308 [main] INFO CPB - clicked on add to cart button
+2024-09-02 18:26:46,268 [main] INFO CPB - clicked on checkout button
+2024-09-02 18:27:41,287 [main] INFO CPB - open prod site
+2024-09-02 18:27:41,391 [main] INFO CPB - entered password
+2024-09-02 18:27:42,049 [main] INFO CPB - clicked on enter button
+2024-09-02 18:27:42,538 [main] INFO CPB - clicked on view all button
+2024-09-02 18:27:44,530 [main] INFO CPB - clicked on phone case
+2024-09-02 18:27:45,647 [main] INFO CPB - selected product model
+2024-09-02 18:27:45,735 [main] INFO CPB - selected product design
+2024-09-02 18:27:45,785 [main] INFO CPB - uploaded image
+2024-09-02 18:27:45,828 [main] INFO CPB - entered first text
+2024-09-02 18:27:45,874 [main] INFO CPB - entered second text
+2024-09-02 18:27:45,998 [main] INFO CPB - selected color
+2024-09-02 18:27:46,058 [main] INFO CPB - selected ring holder
+2024-09-02 18:27:46,103 [main] INFO CPB - clicked on add to cart button
+2024-09-02 18:29:02,088 [main] INFO CPB - open prod site
+2024-09-02 18:29:02,191 [main] INFO CPB - entered password
+2024-09-02 18:29:02,564 [main] INFO CPB - clicked on enter button
+2024-09-02 18:29:02,836 [main] INFO CPB - clicked on view all button
+2024-09-02 18:29:04,336 [main] INFO CPB - clicked on phone case
+2024-09-02 18:29:05,512 [main] INFO CPB - selected product model
+2024-09-02 18:29:05,600 [main] INFO CPB - selected product design
+2024-09-02 18:29:05,749 [main] INFO CPB - uploaded image
+2024-09-02 18:29:05,788 [main] INFO CPB - entered first text
+2024-09-02 18:29:05,822 [main] INFO CPB - entered second text
+2024-09-02 18:29:05,899 [main] INFO CPB - selected color
+2024-09-02 18:29:06,054 [main] INFO CPB - selected ring holder
+2024-09-02 18:29:06,202 [main] INFO CPB - clicked on add to cart button
+2024-09-02 18:29:25,788 [main] INFO CPB - clicked on checkout button
+2024-09-02 18:32:00,769 [main] INFO CPB - open prod site
+2024-09-02 18:32:00,889 [main] INFO CPB - entered password
+2024-09-02 18:32:01,581 [main] INFO CPB - clicked on enter button
+2024-09-02 18:32:02,262 [main] INFO CPB - clicked on view all button
+2024-09-02 18:32:04,056 [main] INFO CPB - clicked on phone case
+2024-09-02 18:32:05,165 [main] INFO CPB - selected product model
+2024-09-02 18:32:05,255 [main] INFO CPB - selected product design
+2024-09-02 18:32:05,304 [main] INFO CPB - uploaded image
+2024-09-02 18:32:05,340 [main] INFO CPB - entered first text
+2024-09-02 18:32:05,466 [main] INFO CPB - entered second text
+2024-09-02 18:32:05,495 [main] INFO CPB - selected color
+2024-09-02 18:32:05,554 [main] INFO CPB - selected ring holder
+2024-09-02 18:32:05,612 [main] INFO CPB - clicked on add to cart button
+2024-09-02 18:32:23,369 [main] INFO CPB - clicked on checkout button
+2024-09-02 18:54:50,012 [main] INFO CPB - open prod site
+2024-09-02 18:54:50,130 [main] INFO CPB - entered password
+2024-09-02 18:54:50,756 [main] INFO CPB - clicked on enter button
+2024-09-02 18:54:50,793 [main] INFO CPB - switched to IFrame
+2024-09-02 18:57:35,801 [main] INFO CPB - open prod site
+2024-09-02 18:57:35,926 [main] INFO CPB - entered password
+2024-09-02 18:57:36,477 [main] INFO CPB - clicked on enter button
+2024-09-02 18:57:37,061 [main] INFO CPB - clicked on view all button
+2024-09-02 18:57:38,754 [main] INFO CPB - clicked on phone case
+2024-09-02 18:57:40,367 [main] INFO CPB - selected product model
+2024-09-02 18:57:40,455 [main] INFO CPB - selected product design
+2024-09-02 18:57:40,503 [main] INFO CPB - uploaded image
+2024-09-02 18:57:40,702 [main] INFO CPB - entered first text
+2024-09-02 18:57:40,817 [main] INFO CPB - entered second text
+2024-09-02 18:57:40,937 [main] INFO CPB - selected color
+2024-09-02 18:57:41,036 [main] INFO CPB - selected ring holder
+2024-09-02 18:57:41,113 [main] INFO CPB - clicked on add to cart button
+2024-09-02 18:57:58,295 [main] INFO CPB - clicked on checkout button
+2024-09-02 18:58:34,620 [main] INFO CPB - open prod site
+2024-09-02 18:58:34,742 [main] INFO CPB - entered password
+2024-09-02 18:58:35,241 [main] INFO CPB - clicked on enter button
+2024-09-02 18:58:35,714 [main] INFO CPB - clicked on view all button
+2024-09-02 18:58:37,519 [main] INFO CPB - clicked on phone case
+2024-09-02 18:58:38,608 [main] INFO CPB - selected product model
+2024-09-02 18:58:38,692 [main] INFO CPB - selected product design
+2024-09-02 18:58:38,743 [main] INFO CPB - uploaded image
+2024-09-02 18:58:38,787 [main] INFO CPB - entered first text
+2024-09-02 18:58:38,897 [main] INFO CPB - entered second text
+2024-09-02 18:58:38,926 [main] INFO CPB - selected color
+2024-09-02 18:58:38,985 [main] INFO CPB - selected ring holder
+2024-09-02 18:58:39,018 [main] INFO CPB - switched to IFrame
+2024-09-02 19:00:13,666 [main] INFO CPB - open prod site
+2024-09-02 19:00:13,795 [main] INFO CPB - entered password
+2024-09-02 19:00:14,334 [main] INFO CPB - clicked on enter button
+2024-09-02 19:00:14,825 [main] INFO CPB - clicked on view all button
+2024-09-02 19:00:16,707 [main] INFO CPB - clicked on phone case
+2024-09-02 19:00:17,815 [main] INFO CPB - selected product model
+2024-09-02 19:00:17,903 [main] INFO CPB - selected product design
+2024-09-02 19:00:17,949 [main] INFO CPB - uploaded image
+2024-09-02 19:00:17,987 [main] INFO CPB - entered first text
+2024-09-02 19:00:18,030 [main] INFO CPB - entered second text
+2024-09-02 19:00:18,059 [main] INFO CPB - selected color
+2024-09-02 19:00:18,121 [main] INFO CPB - selected ring holder
+2024-09-02 19:00:18,260 [main] INFO CPB - clicked on add to cart button
+2024-09-02 19:00:18,277 [main] INFO CPB - switched to IFrame
+2024-09-02 19:21:43,480 [main] INFO CPB - open prod site
+2024-09-02 19:21:43,594 [main] INFO CPB - entered password
+2024-09-02 19:21:43,968 [main] INFO CPB - clicked on enter button
+2024-09-02 19:21:44,433 [main] INFO CPB - clicked on view all button
+2024-09-02 19:21:46,130 [main] INFO CPB - clicked on phone case
+2024-09-02 19:21:47,244 [main] INFO CPB - selected product model
+2024-09-02 19:21:47,334 [main] INFO CPB - selected product design
+2024-09-02 19:21:47,381 [main] INFO CPB - uploaded image
+2024-09-02 19:21:47,417 [main] INFO CPB - entered first text
+2024-09-02 19:21:47,550 [main] INFO CPB - entered second text
+2024-09-02 19:21:47,580 [main] INFO CPB - selected color
+2024-09-02 19:21:47,637 [main] INFO CPB - selected ring holder
+2024-09-02 19:21:47,840 [main] INFO CPB - clicked on add to cart button
+2024-09-02 19:22:06,087 [main] INFO CPB - clicked on checkout button
